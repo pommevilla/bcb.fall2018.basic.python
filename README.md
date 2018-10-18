@@ -1,6 +1,6 @@
 # BCBGSO Fall 2018 Basic Python Workshop
 
-Materials for the *Basic Python* of the Fall 2018 Basic Python Workshops hosted by the [Bioinformatics and Computational Biology Graduate Student Organization (BCBGSO)][bcbgso-stuorg] on October 18, 2018.  
+The *Basic Python* portion of the Fall 2018 Python Workshop hosted by the [Bioinformatics and Computational Biology Graduate Student Organization (BCBGSO)][bcbgso-stuorg] on October 18, 2018.  Supporting materials are available [here](https://github.com/pommevilla/bcb.fall2018.basic.python.mats).  
 ## About this Workshop
 
 There are 5 parts to this workshop:
