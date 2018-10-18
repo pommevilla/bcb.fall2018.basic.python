@@ -2,6 +2,8 @@
 
 The *Basic Python* portion of the Fall 2018 Python Workshop hosted by the [Bioinformatics and Computational Biology Graduate Student Organization (BCBGSO)][bcbgso-stuorg] on October 18, 2018.  
 
+[Begin the workshop](https://nbviewer.jupyter.org/github/pommevilla/bcb.fall2018.basic.python/blob/master/lessons/basic.python.1.ipynb).
+
 ## About this Workshop
 
 There are 5 parts to this workshop:
