@@ -13,7 +13,10 @@ There are 5 parts to this workshop:
 
 ## About the BCBGSO
 
+The Bioinformatics and Computational Biology Graduate Student Organization (BCBGSO) is an entirely graduate student-run organization created to serve the needs of ISU's BCB students.  The BCBGSO provides opportunities for its students to engage in academic, research, and professional development opportunities opportunities.  
 
+* Learn more about the BCBGSO [here][bcbgso-stuorg].
+* Follow us on [Facebook][https://www.facebook.com/ISUBCBGSO/], [Instagram][https://www.instagram.com/official_bcb_gso/], and [Twitter][https://twitter.com/bcbiastate].
 
 
 ## Contact
@@ -21,3 +24,6 @@ There are 5 parts to this workshop:
 Send questions, comments, feedback, and hate mail to pev at iastate dot edu.
 
 [bcbgso-stuorg]: https://www.stuorg.iastate.edu/site/bcbgso
+[bcbgso-facebook]: https://www.facebook.com/ISUBCBGSO/
+[bcbgso-instagram]: https://www.instagram.com/official_bcb_gso/
+[bcbgso-twitter]: https://twitter.com/bcbiastate
